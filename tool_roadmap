@@ -1,0 +1,31 @@
+# Trello-for-VA-Learning
+
+Trello-for-VA-Learning/
+│
+├── level_1_basic_usage/
+│   ├── 00-how-to-sign-up-and-login.md
+│   ├── 01-create-board-and-lists.md
+│   ├── 02-add-cards-to-list.md
+│   ├── 03-move-and-reorder-cards.md
+│   └── 04-archive-delete-cards.md
+│
+├── level_2_card_features/
+│   ├── 05-assign-members-to-cards.md
+│   ├── 06-add-due-dates.md
+│   ├── 07-add-labels-and-colors.md
+│   ├── 08-add-checklists.md
+│   └── 09-attach-files-and-links.md
+│
+├── level_3_board-management/
+│   ├── 10-board-permissions.md
+│   ├── 11-invite-team-members.md
+│   ├── 12-board-views-calendar-and-timeline.md
+│   └── 13-close-and-delete-boards.md
+│
+├── level_4_powerups-and-automation/
+│   ├── 14-enable-calendar-powerup.md
+│   ├── 15-integrate-with-google-drive.md
+│   ├── 16-set-up-butler-automation.md
+│   └── 17-link-to-slack-or-other-tools.md
+│
+└── roadmap.md
